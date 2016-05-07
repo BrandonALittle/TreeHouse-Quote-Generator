@@ -56,6 +56,10 @@ body {
   content: ", ";
   font-style: normal;
 }
+.profession:before {
+  content: ", ";
+    font-style: italic;
+}
 
 #loadQuote {
   position: fixed;
